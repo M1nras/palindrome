@@ -1,5 +1,5 @@
 {
-  "name": "palindrome",
+  "name": "m1nras-palindrome",
   "version": "1.0.0",
   "description": "Palindrome detector",
   "main": "index.js",
